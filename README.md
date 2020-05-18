@@ -3,7 +3,7 @@ Alex's first repository
 
 Hi everyone. I'm Alex Chung. I'm working for logistics company, and I want to learn coding because it's so interesting for me.
 
-1. 심플한 가계부 앱 : 아이팟 클래식 휠과 같은 클래스(집세, 음식, 유흥, 문화, 등) 선택지, 가운데 버튼, Data 엑셀 파일로 추출하여 보내고 싶은 이메일로 송부. 
+1. 심플한 가계부 앱 : 아이팟 클래식 휠과 같은 클래스(집세, 음식, 문화, 등) 선택지, 가운데 버튼, Data 엑셀 파일로 추출하여 보내고 싶은 이메일로 송부. 
 
 2. 주식 앱: 추후 기능 설명 추가.
 
